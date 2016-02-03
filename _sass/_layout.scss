@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    //border-top: 5px solid $grey-color-dark;
+    //border-bottom: 1px solid $grey-color-light;
+    //min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -98,13 +98,17 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    //border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    color: #777;
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: 12px;
     margin-bottom: $spacing-unit / 2;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8px;
 }
 
 .contact-list,
@@ -168,7 +172,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding:  0;
 }
 
 .page-heading {
