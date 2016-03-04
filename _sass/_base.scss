@@ -172,6 +172,15 @@ pre {
     }
 }
 
+.footer {
+  text-align: center;
+  margin-top: $spacing-unit;
+
+  img {
+    max-width: 250px;
+    margin: 0 auto;
+  }
+}
 
 
 /**
