@@ -44,14 +44,9 @@ $on-laptop:        450px;
     }
 }
 
-.header {
-  text-align: center;
-}
-
-.logo {
-  max-width: 50%;
+.cologo {
+  max-width: 125px !important;
   height: auto;
-  margin: 0 auto 20px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
